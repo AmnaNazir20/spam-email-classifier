@@ -114,13 +114,37 @@ grid.fit(X_train, y_train)
 
 ---
 
-## 📈 Model Evaluation
+---
 
-### ✅ Confusion Matrix  
-![Confusion Matrix](confusion matrics LR default.png)
+## 📈 Model Evaluation Results
 
-### ✅ ROC Curve  
-![ROC Curve](roc_curve.png)
+### 🔹 Naive Bayes
+
+#### ✅ Confusion Matrix
+![Naive Bayes Confusion Matrix](confusion%20matrix%20naive%20bayes.png)
+
+#### 📉 ROC Curve
+![Naive Bayes ROC Curve](roc%20curve%20naive%20bayes.png)
+
+---
+
+### 🔹 Logistic Regression (Default)
+
+#### ✅ Confusion Matrix
+![LR Default Confusion Matrix](confusion%20matrix%20LR%20default.png)
+
+#### 📉 ROC Curve
+![LR Default ROC Curve](ROC%20LR%20default.png)
+
+---
+
+### 🔹 Logistic Regression (Tuned with GridSearchCV)
+
+#### ✅ Confusion Matrix
+![LR Tuned Confusion Matrix](confusion%20matrix%20LR%20tuned.png)
+
+#### 📉 ROC Curve
+![LR Tuned ROC Curve](roc%20curve%20lr%20tune.png)
 
 ---
 
