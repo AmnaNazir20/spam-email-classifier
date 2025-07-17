@@ -141,7 +141,7 @@ grid.fit(X_train, y_train)
 ### 🔹 Logistic Regression (Tuned with GridSearchCV)
 
 #### ✅ Confusion Matrix
-![LR Tuned Confusion Matrix](confusion%20matrix%20LR%20tuned.png)
+![LR Tuned Confusion Matrix](conf_matrix_lr_tuned.png)
 
 #### 📉 ROC Curve
 ![LR Tuned ROC Curve](roc%20curve%20lr%20tune.png)
@@ -196,7 +196,7 @@ pip install -r requirements.txt
 
 **Amna Nazir**  
 🎓 MS Data Science | FAST University  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-link-here)
+🔗 [LinkedIn Profile](www.linkedin.com/in/amna-nazir-460b1936a)
 
 ---
 
