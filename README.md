@@ -131,7 +131,7 @@ grid.fit(X_train, y_train)
 ### 🔹 Logistic Regression (Default)
 
 #### ✅ Confusion Matrix
-![LR Default Confusion Matrix](confusion%20matrix%20LR%20default.png)
+![LR Default Confusion Matrix](conf_matrix_lr_default.png)
 
 #### 📉 ROC Curve
 ![LR Default ROC Curve](ROC%20LR%20default.png)
