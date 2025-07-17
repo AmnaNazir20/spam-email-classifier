@@ -117,7 +117,7 @@ grid.fit(X_train, y_train)
 ## 📈 Model Evaluation
 
 ### ✅ Confusion Matrix  
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](confusion matrics LR default.png)
 
 ### ✅ ROC Curve  
 ![ROC Curve](roc_curve.png)
