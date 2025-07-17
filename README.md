@@ -121,7 +121,7 @@ grid.fit(X_train, y_train)
 ### 🔹 Naive Bayes
 
 #### ✅ Confusion Matrix
-![Naive Bayes Confusion Matrix](confusion%20matrix%20naive%20bayes.png)
+![Naive Bayes Confusion Matrix](conf_matrix_lr_default.png)
 
 #### 📉 ROC Curve
 ![Naive Bayes ROC Curve](roc%20curve%20naive%20bayes.png)
